@@ -32,7 +32,16 @@ SNode inherits from Node and num_students in SNode is key in Node.
 
 ## How to use
 * To compile: $make 
-* To run:
+* To run
+  * Using a student roster file: $ ./bst -i students_1.txt -o out.txt
+  * To run a BST unit test with 100 elements: $ ./bst -n 100
+* More information regarding the flags used above
+  * Options
+	  * -h or --help            Display flag information
+	  * -t or --test n          BST Unit Test with n elements
+	  * -i or --input ifname    Input file
+	  * -o or --output ofname   Output file
+
 
 ## System Information
 * The program was tested and run on a virtual machine (VirtualBox Version 6.0.24) running Linux Mint 19.3 MATE.
