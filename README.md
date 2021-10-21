@@ -46,7 +46,7 @@ SNode inherits from Node and num_students in SNode is key in Node.
 ## System Information
 * The program was tested and run on a virtual machine (VirtualBox Version 6.0.24) running Linux Mint 19.3 MATE.
 
-## Aknowledgements
+## Acknowledgements
 * This project was for CIS 330, C, C++ and Unix at University of Oregon, Winter 2020.
 
 * Professor Jee Choi created the initial version (skeleton code and tests) and project specifications.
